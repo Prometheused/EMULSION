@@ -1,0 +1,4 @@
+# Directory labels
+ ran
+# Source files and their labels
+/home/masfiqur/mayo/mayo-Scheme/OTA/srsRAN_Project/tests/unittests/ran/pdcch/pdcch_type0_css_coreset_config_test.cpp

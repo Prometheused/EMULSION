@@ -1,0 +1,4 @@
+# Directory labels
+ fapi_adaptor
+# Source files and their labels
+/home/masfiqur/mayo/mayo-Scheme/OTA/srsRAN_Project/tests/unittests/fapi_adaptor/uci_part2_correspondence_test.cpp

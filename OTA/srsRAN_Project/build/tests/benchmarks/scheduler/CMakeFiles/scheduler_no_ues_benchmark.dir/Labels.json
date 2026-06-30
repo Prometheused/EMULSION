@@ -1,0 +1,16 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/masfiqur/mayo/mayo-Scheme/OTA/srsRAN_Project/tests/benchmarks/scheduler/scheduler_no_ues_benchmark.cpp"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"sched"
+		],
+		"name" : "scheduler_no_ues_benchmark"
+	}
+}

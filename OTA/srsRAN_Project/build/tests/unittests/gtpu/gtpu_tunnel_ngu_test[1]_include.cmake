@@ -1,0 +1,5 @@
+if(EXISTS "/home/masfiqur/mayo/mayo-Scheme/OTA/srsRAN_Project/build/tests/unittests/gtpu/gtpu_tunnel_ngu_test[1]_tests.cmake")
+  include("/home/masfiqur/mayo/mayo-Scheme/OTA/srsRAN_Project/build/tests/unittests/gtpu/gtpu_tunnel_ngu_test[1]_tests.cmake")
+else()
+  add_test(gtpu_tunnel_ngu_test_NOT_BUILT gtpu_tunnel_ngu_test_NOT_BUILT)
+endif()

@@ -1,0 +1,16 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/masfiqur/mayo/mayo-Scheme/OTA/srsRAN_Project/tests/unittests/scheduler/support/pucch/pucch_default_resource_test.cpp"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"sched"
+		],
+		"name" : "pucch_default_resource_test"
+	}
+}

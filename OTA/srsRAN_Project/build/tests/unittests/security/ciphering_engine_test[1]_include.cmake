@@ -1,0 +1,5 @@
+if(EXISTS "/home/masfiqur/mayo/mayo-Scheme/OTA/srsRAN_Project/build/tests/unittests/security/ciphering_engine_test[1]_tests.cmake")
+  include("/home/masfiqur/mayo/mayo-Scheme/OTA/srsRAN_Project/build/tests/unittests/security/ciphering_engine_test[1]_tests.cmake")
+else()
+  add_test(ciphering_engine_test_NOT_BUILT ciphering_engine_test_NOT_BUILT)
+endif()

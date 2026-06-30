@@ -1,0 +1,4 @@
+# Directory labels
+ du_high|tsan
+# Source files and their labels
+/home/masfiqur/mayo/mayo-Scheme/OTA/srsRAN_Project/tests/benchmarks/du_high/du_high_benchmark.cpp

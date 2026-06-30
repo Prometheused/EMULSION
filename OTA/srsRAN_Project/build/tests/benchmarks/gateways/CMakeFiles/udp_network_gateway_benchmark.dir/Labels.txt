@@ -1,0 +1,4 @@
+# Directory labels
+ gateways
+# Source files and their labels
+/home/masfiqur/mayo/mayo-Scheme/OTA/srsRAN_Project/tests/benchmarks/gateways/udp_network_gateway_benchmark.cpp

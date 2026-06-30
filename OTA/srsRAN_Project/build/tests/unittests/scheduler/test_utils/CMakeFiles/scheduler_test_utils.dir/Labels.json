@@ -1,0 +1,19 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/masfiqur/mayo/mayo-Scheme/OTA/srsRAN_Project/tests/unittests/scheduler/test_utils/config_generators.cpp"
+		},
+		{
+			"file" : "/home/masfiqur/mayo/mayo-Scheme/OTA/srsRAN_Project/tests/unittests/scheduler/test_utils/indication_generators.cpp"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"sched"
+		],
+		"name" : "scheduler_test_utils"
+	}
+}
